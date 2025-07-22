@@ -11,3 +11,5 @@ For our analyisis, we have relied on:
 
 
 
+Cite as:
+Polo, M., & Roccuzzo, T. (2025). Replication Package for “And Yet it Moves: A Study of Natural Gas Consumption during the 2022 Energy Crisis in Italy”. GitHub Repository. Available at: https://github.com/troccuzzo/Polo-Roccuzzo-2025
