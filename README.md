@@ -32,7 +32,9 @@ In order to correctly replicate our analyisis one should:
 6) Coordinates of all Italian cities: https://www.gardainformatica.it/database-comuni-italiani. Download and extract the file "gi_comuni.xlsx";
 
 Notice that when matching the coordinates of source 6) with the ERA5-Land database of sources 1) and 2) to download climate data, 11 cells are missing from the ERA5-Land database (see the footnote on pag. 6 of the paper for further explanations). Therefore, the following coordinates should be manually corrected:
-# Provincial Capital, Missing Cell ->	Filled Cell
+Provincial Capital, Missing Cell ->	Filled Cell
+
+
 Napoli, (40.8, 14.3) -> (40.9, 14.3)
 Venezia, (45.4, 12.3) -> (45.5, 12.3)
 Genova, (44.4, 8.9) -> (44.5, 8.9)
