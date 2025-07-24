@@ -19,11 +19,11 @@ For our analyisis, we have relied on:
 - Replication_Monthly.xlsx, the data set of analysis at monthly resolution.
 
 
-In order to correctly replicate our analyisis one should:
+In order to correctly replicate our entire study one should:
 1) download all inputs reported in the Data Sources;
-2) combine all sources with File 3 - Dataset Creation.R to create the working data sets;
+2) combine all sources with File 3 - Dataset Creation.R to create the working data sets (pay attention to specific comments in the file to ensure correct replication of the data sets' creation);
 3) run File 4 - Replication.do file with the daily and monthly datasets created.
-
+Notice that both data sets of analysis (Replication_Daily.xlsx and Replication_Monthly.xlsx) are also already provided in their final format. Replication can be carried out directly using File 4 - Replication.do and these two data sets.
 
 # Data Sources
 1) Daily gas balances: https://jarvis.snam.it/public-data?pubblicazione=Bilancio%20Definitivo&periodo=2025&lang=it. Download all gas balances from Jan-2012 to Mar-2025 included;
