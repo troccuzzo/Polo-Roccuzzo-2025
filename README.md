@@ -10,7 +10,7 @@ For our analyisis, we have relied on:
 - Python 3.13.3
 
 
-# Available Files:
+# Available Files
 - File 1 - CDS API HDD.py to download daily mean temperatures from the ERA5-Land database;
 - File 2 - CDS API SNSR.py to download total daily surface net solar radiation from the ERA5-Land database;
 - File 3 - Dataset Creation.R to combine all imputs and create the dataset of analysis to be then loaded into Stata;
@@ -18,19 +18,19 @@ For our analyisis, we have relied on:
 
 
 In order to correctly replicate our analyisis one should:
-1) download all inputs as decribed in the Data Sources;
+1) download all inputs reported in the Data Sources;
 2) combine all sources with File 3 - Dataset Creation.R to create the working data sets;
 3) run File 4 - Replication.DO file with the daily and monthly datasets created.
 
 
-# Data Sources:
+# Data Sources
 1) Daily gas balances: https://jarvis.snam.it/public-data?pubblicazione=Bilancio%20Definitivo&periodo=2025&lang=it. Download all gas balances from Jan-2012 to Mar-2025 included;
-2) Daily mean temperatures: https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=overview. Use File 1 to download this data;
-3) Daily total surface net solar radiation: https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=overview. Use File 2 to download this data;
+2) Daily mean temperatures: https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=overview. Use File 1 to download the NetCDF files;
+3) Daily total surface net solar radiation: https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=overview. Use File 2 to download the NetCDF files;
 4) Monthly price index: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0400PRI,1.0/PRI_CONWHONAT/PRI_CONWHONAT_BRI/DCSP_NICUNOBB2010/IT1,167_33_DF_DCSP_NICUNOBB2010_3,1.0 and https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0400PRI,1.0/PRI_CONWHONAT/DCSP_NIC1B2015/IT1,167_744_DF_DCSP_NIC1B2015_4,1.0. Download both files;
 5) Italian population by province: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,POP,1.0/POP_POPULATION/DCIS_POPRES1/IT1,22_289_DF_DCIS_POPRES1_1,1.0. Download the 2024 file;
 6) Coordinates of all Italian cities: https://www.gardainformatica.it/database-comuni-italiani. Download and extract the file "gi_comuni.xlsx";
-
+7) EUROSTAT prices: https://ec.europa.eu/eurostat/databrowser/view/ten00118/default/table?lang=en.
 
 Cite as:
 
