@@ -14,13 +14,15 @@ For our analyisis, we have relied on:
 - File 1 - CDS API HDD.py to download daily mean temperatures from the ERA5-Land database;
 - File 2 - CDS API SNSR.py to download total daily surface net solar radiation from the ERA5-Land database;
 - File 3 - Dataset Creation.R to combine all imputs and create the dataset of analysis to be then loaded into Stata;
-- File 4 - Replication.DO to perform the regression/statystical analysis.
+- File 4 - Replication.do to perform the regression/statystical analysis.
+- Replication_Daily.xlsx, the data set of analysis at daily resolution.
+- Replication_Monthly.xlsx, the data set of analysis at monthly resolution.
 
 
 In order to correctly replicate our analyisis one should:
 1) download all inputs reported in the Data Sources;
 2) combine all sources with File 3 - Dataset Creation.R to create the working data sets;
-3) run File 4 - Replication.DO file with the daily and monthly datasets created.
+3) run File 4 - Replication.do file with the daily and monthly datasets created.
 
 
 # Data Sources
