@@ -37,7 +37,7 @@ Notice that both data sets of analysis (Replication_Daily.xlsx and Replication_M
 
 Cite as:
 
-Polo, Michele, and Roccuzzo, Tommaso. (2026). Replication Package for “And Yet it Moves: A Study of Natural Gas Consumption during the 2022 Energy Crisis in Italy”. GitHub Repository. Available at: https://github.com/troccuzzo/Polo-Roccuzzo-2026
+Polo, Michele, and Roccuzzo, Tommaso. (2026). Replication Package for “And Yet it Moves: A Study of Natural Gas Consumption at the Turn of the 2022 Energy Crisis in Italy”. GitHub Repository. Available at: https://github.com/troccuzzo/Polo-Roccuzzo-2026
 
 
 
