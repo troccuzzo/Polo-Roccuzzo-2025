@@ -6,7 +6,7 @@ All data sources are open access and easily retrievable by interested parties. L
 
 For our analyisis, we have relied on:
 - R version 4.4.3
-- Stata18
+- Stata19
 - Python 3.13.3
 
 
@@ -28,13 +28,12 @@ In order to correctly replicate our entire study one should:
 Notice that both data sets of analysis (Replication_Daily.xlsx and Replication_Monthly.xlsx) are also already provided in their final format. Replication can be carried out directly using File 4 - Replication.do and these two data sets.
 
 # Data Sources
-1) Daily gas balances: https://jarvis.snam.it/public-data?pubblicazione=Bilancio%20Definitivo&periodo=2025&lang=it. Download all gas balances from Jan-2012 to Mar-2025 included;
+1) Daily gas balances: https://jarvis.snam.it/public-data?pubblicazione=Bilancio%20Definitivo&periodo=2025&lang=it. Download all gas balances from Jan-2012 to Dec-2025 included;
 2) Daily mean temperatures: https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=overview. Use File 1 to download the NetCDF files;
 3) Daily total surface net solar radiation: https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=overview. Use File 2 to download the NetCDF files;
 4) Monthly price index: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0400PRI,1.0/PRI_CONWHONAT/PRI_CONWHONAT_BRI/DCSP_NICUNOBB2010/IT1,167_33_DF_DCSP_NICUNOBB2010_3,1.0 and https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0400PRI,1.0/PRI_CONWHONAT/DCSP_NIC1B2015/IT1,167_744_DF_DCSP_NIC1B2015_4,1.0. Download both files;
 5) Italian population by province: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,POP,1.0/POP_POPULATION/DCIS_POPRES1/IT1,22_289_DF_DCIS_POPRES1_1,1.0. Download the 2024 file;
-6) Coordinates of all Italian cities: https://www.gardainformatica.it/database-comuni-italiani. Download and extract the file "gi_comuni.xlsx";
-7) EUROSTAT prices: https://ec.europa.eu/eurostat/databrowser/view/ten00118/default/table?lang=en.
+6) EUROSTAT prices: https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_202__custom_20359708/default/table. Download the prices for Italian consumers in BAND D2, ALL TAXES AND LEVIES INCLUDED.
 
 Cite as:
 
