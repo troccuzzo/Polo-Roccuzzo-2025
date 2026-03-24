@@ -1,5 +1,5 @@
-# Polo, Roccuzzo (2025)
-The following repository provides the database and replication package of Polo, Roccuzzo (2025) [link]. 
+# Polo, Roccuzzo (2026)
+The following repository provides the database and replication package of Polo, Roccuzzo (2026) [link]. 
 Any question about these files should be addressed to tommaso.roccuzzo@duke.edu or to michele.polo@unibocconi.it.
 
 All data sources are open access and easily retrievable by interested parties. Links pointing to the necessary data sources are provided at the end of this README file and also within the .R replication file.
@@ -37,7 +37,7 @@ Notice that both data sets of analysis (Replication_Daily.xlsx and Replication_M
 
 Cite as:
 
-Polo, Michele, and Roccuzzo, Tommaso. (2025). Replication Package for “And Yet it Moves: A Study of Natural Gas Consumption during the 2022 Energy Crisis in Italy”. GitHub Repository. Available at: https://github.com/troccuzzo/Polo-Roccuzzo-2025
+Polo, Michele, and Roccuzzo, Tommaso. (2026). Replication Package for “And Yet it Moves: A Study of Natural Gas Consumption during the 2022 Energy Crisis in Italy”. GitHub Repository. Available at: https://github.com/troccuzzo/Polo-Roccuzzo-2026
 
 
 
